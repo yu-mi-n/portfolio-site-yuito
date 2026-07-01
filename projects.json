@@ -14,7 +14,8 @@
         "description": "アルバイト先でお客様用に掲載するカレンダーを簡単に作成するためのWebアプリケーションです。",
         "image": "image/calendar-maker.png",
         "link": "https://github.com/yu-mi-n/Anytime_Calendar_Maker/", 
-        "github": "https://github.com/yu-mi-n/Anytime_Calendar_Maker"
+        "github": "https://github.com/yu-mi-n/Anytime_Calendar_Maker",
+        "isDeployed": true
     },
     {
         "title": "SelFit",
